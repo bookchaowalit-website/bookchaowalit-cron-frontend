@@ -46,6 +46,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+        {/* THESIS: Cron is an editorial notation plate, refusing the generic utility dashboard. OWN-WORLD: near-white stock, registration marks, one periwinkle seal, and orange proofing ink. STORY: visitors set five marks, read the resulting sentence, then inspect the next impressions. FIRST VIEWPORT: oversized typographic title, central expression plate, field legend, and presets. FORM: design annual plate, assigned grounded direction 5, seed c6458837. FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, DESIGN.md, and every shipping raster carrying its provenance */}
         <Analytics />
         <SpeedInsights />
         {children}
